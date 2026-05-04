@@ -25,3 +25,5 @@ make
 ```
 
 The program parses several built-in example JSON strings and pretty-prints the results, including an intentional error case to demonstrate error handling.
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
